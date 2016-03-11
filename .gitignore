@@ -1,0 +1,9 @@
+.gradle/
+.idea/
+build/
+gradle/
+gradlew
+gradlew.bat
+klevenshtein.iml
+klevenshtein.ipr
+klevenshtein.iws
